@@ -1,0 +1,1 @@
+ 0 0 * * 0  bash /pgdump_on_s3.sh >/dev/null 2>&1
